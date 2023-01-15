@@ -4,4 +4,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicoNiquito)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicoNiquito&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KiboKibito&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
